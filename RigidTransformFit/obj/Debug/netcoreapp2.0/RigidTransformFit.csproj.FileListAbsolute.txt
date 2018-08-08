@@ -1,0 +1,10 @@
+C:\Users\Jackie Yang\RiderProjects\RigidTransformFit\RigidTransformFit\bin\Debug\netcoreapp2.0\RigidTransformFit.deps.json
+C:\Users\Jackie Yang\RiderProjects\RigidTransformFit\RigidTransformFit\bin\Debug\netcoreapp2.0\RigidTransformFit.runtimeconfig.json
+C:\Users\Jackie Yang\RiderProjects\RigidTransformFit\RigidTransformFit\bin\Debug\netcoreapp2.0\RigidTransformFit.runtimeconfig.dev.json
+C:\Users\Jackie Yang\RiderProjects\RigidTransformFit\RigidTransformFit\bin\Debug\netcoreapp2.0\RigidTransformFit.dll
+C:\Users\Jackie Yang\RiderProjects\RigidTransformFit\RigidTransformFit\bin\Debug\netcoreapp2.0\RigidTransformFit.pdb
+C:\Users\Jackie Yang\RiderProjects\RigidTransformFit\RigidTransformFit\obj\Debug\netcoreapp2.0\RigidTransformFit.csproj.CoreCompileInputs.cache
+C:\Users\Jackie Yang\RiderProjects\RigidTransformFit\RigidTransformFit\obj\Debug\netcoreapp2.0\RigidTransformFit.AssemblyInfoInputs.cache
+C:\Users\Jackie Yang\RiderProjects\RigidTransformFit\RigidTransformFit\obj\Debug\netcoreapp2.0\RigidTransformFit.AssemblyInfo.cs
+C:\Users\Jackie Yang\RiderProjects\RigidTransformFit\RigidTransformFit\obj\Debug\netcoreapp2.0\RigidTransformFit.dll
+C:\Users\Jackie Yang\RiderProjects\RigidTransformFit\RigidTransformFit\obj\Debug\netcoreapp2.0\RigidTransformFit.pdb
